@@ -1,9 +1,6 @@
 # 🔍 자동차 부품 공급망 이상 탐지 시스템
 # SCM Anomaly Detection System
 
-> **이화SCM 미국 법인 인턴 채용 포트폴리오**  
-> Portfolio for Ewha SCM US Branch Internship — AX Transformation & AI-based SCM Automation
-
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
