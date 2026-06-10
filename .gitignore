@@ -1,0 +1,15 @@
+.claude/
+claude/
+claude.json
+.claude.json
+
+.env
+.env.local
+
+__pycache__/
+*.pyc
+
+data/*.csv
+data/**/*.csv
+
+.DS_Store
