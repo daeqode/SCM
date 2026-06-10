@@ -281,16 +281,3 @@ kaggle datasets download -d shashwatwork/dataco-smart-supply-chain-for-big-data-
 unzip dataco-smart-supply-chain-for-big-data-analysis.zip -d data/
 ```
 
----
-
-## 👩‍💻 개발자 / Author
-
-**Da-eun** — [GitHub](https://github.com/<your-username>)  
-이화SCM 미국 법인 인턴 지원 포트폴리오 프로젝트  
-Portfolio project for Ewha SCM US Branch Internship Application
-
----
-
-<p align="center">
-  <i>Built with ❤️ for AX Transformation in Supply Chain Management</i>
-</p>
